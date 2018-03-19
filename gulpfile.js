@@ -6,4 +6,8 @@ gulp.task('compile', function() {
     return gulp.src('./scss/grid.scss') 
     .pipe(sass()) 
     .pipe(gulp.dest('./compiled')) 
+});
+
+gulp.task('compile-watch', function() {
+    gulp.watch('scss/grid.scss', ['compile']);
 })
