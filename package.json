@@ -1,0 +1,23 @@
+{
+  "name": "toast-compile",
+  "version": "1.0.0",
+  "description": "The Toast framework is a grid. That's it. Soon, it might have type styles and whatnot, but its power is in its highly customisable design.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mercurialHg/Toast.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mercurialHg/Toast/issues"
+  },
+  "homepage": "https://github.com/mercurialHg/Toast#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
+  }
+}
