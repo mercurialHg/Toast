@@ -1,6 +1,5 @@
 @charset "UTF-8";
-/*-----------------------------------*\
-
+/*-----------------------------------*
   $TOAST-GRID
 
   An insane grid.
@@ -309,5 +308,3 @@
 
 .grid__col--am {
   vertical-align: middle; }
-
-/*# sourceMappingURL=grid.css.map */
